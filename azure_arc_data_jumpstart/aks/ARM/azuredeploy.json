@@ -100,7 +100,7 @@
       "metadata": {
         "description": "Target GitHub account"
       },
-      "defaultValue": "microsoft"
+      "defaultValue": "sk-bln"
     },
     "githubBranch": {
       "type": "string",
